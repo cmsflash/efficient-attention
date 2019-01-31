@@ -4,6 +4,7 @@ from torch.nn import functional as f
 
 
 class FactorizedAttention(nn.Module):
+    
     def __init__(
             self, in_channels, basis_cardinality, head_count, value_channels
         ):
