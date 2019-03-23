@@ -1,6 +1,6 @@
 import torch
-from factorized_attention import FactorizedAttention
+from decomposed_attention import DecomposedAttention
 
 
 x = torch.tensor([[[[1, 1], [1, 1]]]], dtype=torch.float32)
-print(FactorizedAttention(1, 2, 2, 2)(x))
+print(DecomposedAttention(1, 2, 2, 2)(x))

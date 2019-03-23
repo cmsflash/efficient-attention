@@ -1,3 +1,4 @@
-# Factorized Attention
+# Decomposed Attention
 
-An implementation of the factorized attention block.
+An implementation of the decomposed attention (DA) module.
+
