@@ -25,21 +25,19 @@ This repository implements additionally implements the multi-head mechanism whic
 The [paper](https://arxiv.org/abs/1812.01243) is under review. If you use, compare with, or refer to this work, please cite
 
 ```bibtex
-@article{DBLP:journals/corr/abs-1812-01243,
+@article{shen2019efficient,
   author    = {Zhuoran Shen and
                Mingyuan Zhang and
+               Haiyu Zhao and
                Shuai Yi and
-               Junjie Yan and
-               Haiyu Zhao},
-  title     = {Factorized Attention: Self-Attention with Linear Complexities},
+               Hongsheng Li},
+  title     = {Efficient Attention: Attention with Linear Complexities},
   journal   = {CoRR},
   volume    = {abs/1812.01243},
   year      = {2018},
   url       = {http://arxiv.org/abs/1812.01243},
   archivePrefix = {arXiv},
   eprint    = {1812.01243},
-  timestamp = {Tue, 01 Jan 2019 15:01:25 +0100},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1812-01243},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  timestamp = {Tue, 07 Jan 2019 08:45:52 +0000}
 }
 ```
