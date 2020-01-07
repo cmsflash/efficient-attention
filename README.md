@@ -18,7 +18,7 @@ This repository implements the efficient attention module with softmax normaliza
 
 ## Features not in the paper
 
-This repository implements additionally implements the multi-head mechanism which was not in the paper. To learn more about the mechanism, refer to [Vaswani et al.](https://arxiv.org/abs/1706.03762).
+This repository implements additionally implements the multi-head mechanism which was not in the paper. To learn more about the mechanism, refer to [Vaswani et al.](https://arxiv.org/abs/1706.03762)
 
 ## Citation
 
