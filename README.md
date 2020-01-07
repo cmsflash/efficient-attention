@@ -1,3 +1,3 @@
-# Decomposed Attention
+# Efficient Attention
 
-An implementation of the [decomposed attention (DA)](https://arxiv.org/abs/1812.01243) module.
+An implementation of the [efficient attention (EA)](https://arxiv.org/abs/1812.01243) module.
