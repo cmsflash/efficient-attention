@@ -22,22 +22,17 @@ This repository implements additionally implements the multi-head mechanism whic
 
 ## Citation
 
-The [paper](https://arxiv.org/abs/1812.01243) is under review. If you use, compare with, or refer to this work, please cite
+The [paper](https://arxiv.org/abs/1812.01243) will appear at WACV 2021. If you use, compare with, or refer to this work, please cite
 
 ```bibtex
-@article{shen2019efficient,
+@inproceedings{shen2021efficient,
   author    = {Zhuoran Shen and
                Mingyuan Zhang and
                Haiyu Zhao and
                Shuai Yi and
                Hongsheng Li},
   title     = {Efficient Attention: Attention with Linear Complexities},
-  journal   = {CoRR},
-  volume    = {abs/1812.01243},
-  year      = {2018},
-  url       = {http://arxiv.org/abs/1812.01243},
-  archivePrefix = {arXiv},
-  eprint    = {1812.01243},
-  timestamp = {Tue, 07 Jan 2019 08:45:52 +0000}
+  booktitle = {WACV},
+  year      = {20201},
 }
 ```
