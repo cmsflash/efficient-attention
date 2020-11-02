@@ -33,6 +33,6 @@ The [paper](https://arxiv.org/abs/1812.01243) will appear at WACV 2021. If you u
                Hongsheng Li},
   title     = {Efficient Attention: Attention with Linear Complexities},
   booktitle = {WACV},
-  year      = {20201},
+  year      = {2021},
 }
 ```
