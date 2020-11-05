@@ -26,13 +26,9 @@ The [paper](https://arxiv.org/abs/1812.01243) will appear at WACV 2021. If you u
 
 ```bibtex
 @inproceedings{shen2021efficient,
-  author    = {Zhuoran Shen and
-               Mingyuan Zhang and
-               Haiyu Zhao and
-               Shuai Yi and
-               Hongsheng Li},
-  title     = {Efficient Attention: Attention with Linear Complexities},
-  booktitle = {WACV},
-  year      = {2021},
+    author = {Zhuoran Shen and Mingyuan Zhang and Haiyu Zhao and Shuai Yi and Hongsheng Li},
+    title = {Efficient Attention: Attention with Linear Complexities},
+    booktitle = {WACV},
+    year = {2021},
 }
 ```
