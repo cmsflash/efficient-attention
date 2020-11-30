@@ -12,6 +12,15 @@ Efficient attention is an attention mechanism that substantially optimizes the m
 - achieves higher accuracy with the same resource constraints (by allowing more insertions); and
 - is applicable in domains and models where the non-local module is not (due to resource constraints).
 
+## Resources
+
+YouTube:
+- Presentation: https://youtu.be/_wnjhTM04NM
+
+bilibili (for users in Mainland China):
+- Presentation: https://www.bilibili.com/video/BV1tK4y1f7Rm
+- Presentation in Chinese: https://www.bilibili.com/video/bv1Gt4y1Y7E3 
+
 ## Implementation details
 
 This repository implements the efficient attention module with softmax normalization, output reprojection, and residual connection.
